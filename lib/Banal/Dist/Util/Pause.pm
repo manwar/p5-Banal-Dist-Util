@@ -14,11 +14,11 @@ use Path::Tiny;
 use namespace::autoclean;
 
 use Exporter::Shiny qw(
-  __pause_config
+  pause_config
 );
 
 # return username, password from ~/.pause
-sub __pause_config
+sub pause_config
 {
 #     my $home = $ENV{HOME};
 #     return unless defined $home;

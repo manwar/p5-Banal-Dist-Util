@@ -13,14 +13,14 @@ our $VERSION = '0.001';
 use Path::Tiny;
 
 use Exporter::Shiny qw(
-  __detect_settings_from_git
+  detect_settings_from_git
 );
 
 use namespace::autoclean;
 
 
 # Detect settings (like remote 'server') from the local git repository
-sub __detect_settings_from_git {
+sub detect_settings_from_git {
   my  %args = @_;
   my  $dir  = $args{dir} || Path::Tiny->cwd;
   my  %detected;

@@ -14,15 +14,13 @@ our $VERSION = '0.001';
 use Path::Tiny        qw(path);
 use Data::Printer;                  # DEBUG aid.
 
-use Exporter::Shiny qw(
-  __pause_config
-);
+use Exporter::Shiny qw( pause_config );
 
 use namespace::autoclean;
 
 
 # return username, password from ~/.pause
-sub __pause_config
+sub pause_config_alt  # Hmmm. We've got a similar named routine in *::Pause.pm
 {
     my $file = path($ENV{HOME} // 'oops', '.pause');
     return if not -e $file;
