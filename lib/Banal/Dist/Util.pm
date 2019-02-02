@@ -7,7 +7,7 @@ package Banal::Dist::Util;
 # ABSTRACT: General purpose utility collection mainly used by <Dist::Zilla::*::Author::TABULO>
 # KEYWORDS: author utility
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 # AUTHORITY
 
 

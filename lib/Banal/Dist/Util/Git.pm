@@ -7,7 +7,7 @@ package Banal::Dist::Util::Git;
 # ABSTRACT: General purpose utility collection for <Dist::Zilla::*::Author::TABULO>
 # KEYWORDS: author utility
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 # AUTHORITY
 
 use Path::Tiny;
