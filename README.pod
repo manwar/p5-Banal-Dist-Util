@@ -8,7 +8,7 @@ Banal::Dist::Util - General purpose utility collection mainly used by <Dist::Zil
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SUPPORT
 
