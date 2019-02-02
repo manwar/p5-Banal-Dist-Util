@@ -45,6 +45,8 @@
 /test*.out*
 /test*.std*
 
+# DZIL - temporary files
+DZP-git.*
 
 
 # Devel::Cover
