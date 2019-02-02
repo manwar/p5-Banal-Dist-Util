@@ -1,0 +1,5 @@
+Revision history for 'Banal-Dist-Util'
+
+{{$NEXT}}
+            - Initial release.
+            - Created a separate distribution package for these modules that used to reside in <Dist-Zilla-Plugin-Bundle-Author-TABULO>
