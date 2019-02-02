@@ -4,15 +4,16 @@
 
 =head1 NAME
 
-Banal::Dist::Util - Provide several utility functions with minimal dependencies.
+Banal::Dist::Util - General purpose utility collection mainly used by <Dist::Zilla::*::Author::TABULO>
 
 =head1 VERSION
 
-version 0.002
+version 0.001
 
 =head1 SUPPORT
 
-Bugs may be submitted through issues on the related github repository.
+Bugs may be submitted through L<the RT bug tracker|https://rt.cpan.org/Public/Dist/Display.html?Name=Banal-Dist-Util>
+(or L<bug-Banal-Dist-Util@rt.cpan.org|mailto:bug-Banal-Dist-Util@rt.cpan.org>).
 
 =head1 AUTHOR
 

@@ -1,5 +1,5 @@
 Revision history for 'Banal-Dist-Util'
 
-{{$NEXT}}
+0.001     2019-02-02 21:49:11Z
             - Initial release.
             - Created a separate distribution package for these modules that used to reside in <Dist-Zilla-Plugin-Bundle-Author-TABULO>
