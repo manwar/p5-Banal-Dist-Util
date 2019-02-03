@@ -4,7 +4,7 @@ use warnings;
 
 package Banal::Dist::Util;
 # vim: set ts=2 sts=2 sw=2 tw=115 et :
-# ABSTRACT: General purpose utility collection mainly used by <Dist::Zilla::*::Author::TABULO>
+# ABSTRACT: General purpose utility collection mainly used by C<Dist::Zilla::*::Author::TABULO>
 # KEYWORDS: author utility
 
 our $VERSION = '0.005';
